@@ -1,8 +1,6 @@
 {
   "name": "animais-fantasticos",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development --watch",
     "build": "webpack --mode production"
@@ -11,7 +9,6 @@
     "type": "git",
     "url": "git+https://github.com/LuiizTavares/JavaScript_Aprimoramentos.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LuiizTavares/JavaScript_Aprimoramentos/issues"
